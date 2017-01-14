@@ -2,14 +2,14 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/color.jpg"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+If you would like to contact me, please fill out the form below.  Thank you!
 
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=02e56b88f1b95d740a052ede89c5b66c" method="post">    <!-- add my token -->
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='http://bloc.github.io/portfolio-iro/thank-you/' />
+  <input type='hidden' name='redirect_to' value='http://tebriggs4.github.io/thank-you/' />                          <!-- add my github -->
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>

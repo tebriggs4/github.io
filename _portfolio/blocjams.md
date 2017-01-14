@@ -1,9 +1,9 @@
 ---
 layout: post
 title: BlocJams
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+feature-img: "img/BlocJams.jpg"
+thumbnail-path: "img/BlocJams.jpg"
+short-description: BlocJams is an interactive music player similar to Spotify
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+To return to my programming roots I enrolled in Bloc's Web Development program.  One of our projects was to develop BlocJams.  BlocJams was a project using the HTML5, CSS3 and Javascript I learned in the first phase of the program.  During the coding of BlocJams I learned Dom Scripting and jQuery.  BlocJams was designed by Bloc.  It was my first project and it helped me learn frontend development.
