@@ -1,18 +1,18 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tebriggs4.github.io" # the base hostname & protocol for your site
+url: "https://tebriggs4.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Tara Briggs
-  avatar: avatar.jpg
+  avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>From Computer Progammer to Accountant to Web Developer</h1>
+     <h1>From Computer Programmer to Accountant to Web Developer</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -25,7 +25,7 @@ theme_settings:
   dribbble:
   facebook: "tebriggs4"
   flickr:
-  github: "https://github.com/tebriggs4.github.io"
+  github: "https://tebriggs4.github.io"
   google_plus:
   instagram: "tebriggs4"
   linkedin: "https://www.linkedin.com/in/tara-briggs-9749b81a"
